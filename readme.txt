@@ -68,4 +68,11 @@
 
 　　git push origin master  Git会把master分支推送到远程库对应的远程分支
 
+     git init
+     git add README.md
+     git commit -m "first commit"
+     git branch -M master
+     git remote add origin https://github.com/scanf-ux/hello__world.git
+     git push -u origin master
+   
   早上好啊!
